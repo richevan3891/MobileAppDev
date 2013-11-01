@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UAS Flight Path</string>
+    <string name="action_export_string">Export</string>
+    <string name="action_remove_string">Clear Path</string>
+    <string name="title_activity_wp_list_fragment">Waypoint List Fragment</string>
+    <string name="title_activity_wp_list">Activity Waypoint List</string>
+
+</resources>
